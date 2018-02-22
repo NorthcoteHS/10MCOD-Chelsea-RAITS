@@ -13,14 +13,14 @@ if operation == '+':
     print('{} + {} = '.format(x, y))
     print(x + y)
 
-if operation == '-':
+elif operation == '-':
     print('{} - {} = '.format(x , y))
     print(x - y)
 
-if operation == '*':
+elif operation == '*':
     print('{} * {} = '.format(x, y))
     print(x * y)
-if operation == '/':
+elif operation == '/':
     print('{} / {} = '.format(x, y))
     print(x / y)
 else:

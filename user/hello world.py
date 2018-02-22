@@ -1,2 +1,4 @@
-s= input ('What is your name')
-print('Hello My name is chelsea.')
+x= input ('What is your name')
+y= ('Hello')
+z= ('my name is computer')
+print(y,x,z)
